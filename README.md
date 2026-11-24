@@ -3,10 +3,3 @@
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmedkhemiri24/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmedkhemiri24)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ahmedkhemiri95&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=E6EDF3&border_radius=15"
-    width="100%"
-    alt="Ahmed's GitHub Stats"
-  />
-</p>
